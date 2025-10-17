@@ -1,0 +1,11 @@
+Bhai 😎 ab chalo samajhte hain Callbacks ka scene ekdum desi style me:
+________________________________________
+
+1. Concept – Callback kya hai?
+👉 Callback = ek function jo kisi dusre function ko diya jata hai, taaki wo baad me bulaya (call back) ja sake.
+Socho tumne apne dost ko bola:
+•	“Bhai, main khaana banane laga hu, tu ready hone ke baad mujhe call kar dena.”
+•	Matlab tumne apne dost ko ek responsibility (function) de di.
+•	Jab wo ready hoga, tumhe call kar dega.
+⚡ Node.js me jab hum koi asynchronous task karte hain (jaise file read, DB call, API call), tab hum ek callback function dete hain jo kaam complete hone par execute hota hai.
+________________________________________

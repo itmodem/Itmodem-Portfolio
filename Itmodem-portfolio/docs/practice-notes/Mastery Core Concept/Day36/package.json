@@ -1,0 +1,19 @@
+{
+  "name": "nn",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Itmodem Pvt Ltd",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongodb": "^6.19.0",
+    "mongoose": "^8.18.1"
+  },
+  "keywords": []
+}
